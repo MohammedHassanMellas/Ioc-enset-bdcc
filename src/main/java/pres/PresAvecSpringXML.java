@@ -1,6 +1,7 @@
 package pres;
 
 import metier.IMetier;
+import metier.MetierImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
