@@ -1,2 +1,2 @@
-<H2>Injection des dépendances et Inversion de control</H2>
-<img src="Captures/cap.png">
+<H2>Inversion of Control and Dependency Injection with Spring</H2>
+<img src="Captures/IOC.png">
